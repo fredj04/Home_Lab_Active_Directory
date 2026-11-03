@@ -127,8 +127,5 @@ lack explicit permission to test.
 
 ## 📸 Screenshots
 
-*(Add yours here — great candidates:)*
-- VirtualBox VM list showing all four machines
-- `Active Directory Users and Computers` with the domain and users
-- The Windows 11 client logged in with a `LAB\` domain account
-- The computer object listed under the domain's Computers container
+<img width="1917" height="1020" alt="Screenshot 2026-11-02 235903" src="https://github.com/user-attachments/assets/eea59990-bd8d-4faa-8006-37a347332fa9" />
+
