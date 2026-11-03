@@ -129,3 +129,8 @@ lack explicit permission to test.
 
 <img width="1917" height="1020" alt="Screenshot 2026-11-02 235903" src="https://github.com/user-attachments/assets/eea59990-bd8d-4faa-8006-37a347332fa9" />
 
+<img width="922" height="726" alt="Screenshot 2026-11-03 000403" src="https://github.com/user-attachments/assets/07902176-7fcd-4b77-a33e-fa2fd1397035" />
+
+<img width="797" height="628" alt="Screenshot 2026-11-03 000700" src="https://github.com/user-attachments/assets/23c47d64-8233-46ad-a4a0-4924e2fa9008" />
+
+<img width="927" height="665" alt="Screenshot 2026-11-03 000954" src="https://github.com/user-attachments/assets/ecb8d0ba-6f1d-4197-84ed-9fe9ce5f347e" />
